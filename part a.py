@@ -1,3 +1,5 @@
+# THIS CODE CONTAINS FUNCTION AND IF ELSE CONCEPTS
+
 def donut(count):
     if count>=10:
         print("Number of donuts : Many")
