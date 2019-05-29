@@ -1,3 +1,4 @@
+print("#### Generating series of odd ####")
 def odd_list(a):
     for num in range(1,a+1):
         if num%2!=0:
